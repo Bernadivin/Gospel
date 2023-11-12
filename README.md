@@ -1,2 +1,2 @@
 # Gospel
-Gospl
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Bero Gospel est l'une des Televisions Chretienne avec la diversite sans stop du Gospel, Prédications et autres... Sans oublier des Emissions special. Veuillez nous contacter : congomonpays243@gmail.com","sourceCam":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titleCam":"BERO GOSPE"}]}]}
